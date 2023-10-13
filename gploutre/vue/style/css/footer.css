@@ -1,0 +1,17 @@
+/* index.css */
+
+footer {
+    margin-top: 10%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0; /* Ajoute de l'espace à l'intérieur du footer */
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px; /* Espacement entre les liens dans le footer */
+    font-size: 1em;
+}
+

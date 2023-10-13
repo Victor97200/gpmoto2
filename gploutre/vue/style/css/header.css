@@ -1,0 +1,30 @@
+header{
+    background-color: black;
+    height: 5%;
+    position: sticky;
+    margin-bottom: 2%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10%; /* Espacement entre les éléments à l'intérieur de la barre de navigation */
+    font-size: 1em;
+    text-align: center;
+}
+
+nav img {
+    width: 5%;
+    height: auto;
+}
+
+#content{
+    width: 95%;
+}
